@@ -17,7 +17,7 @@ What else do you need?
 
 "The Originals" is a derivative drama of "The Vampire Diaries", produced by Columbia and Warner Bros.
 
-![image-20201109125409073](assets/images/image-20201109125409073.png)
+![image-20201109125409073](assets/img/image-20201109125409073.png)
 
  United Television Network. Directed by Chris Grisme, Joseph Morgan, starring Daniel Gillies. The play tells the thrilling story of Nicklaus, Elijah, and Rebecca, members of the first-generation vampire family, after returning to settle in New Orleans, and their predecessor, Marcel, began a struggle for dominance and a struggle with regional witches. The show premiered on October 3, 2013.
 
