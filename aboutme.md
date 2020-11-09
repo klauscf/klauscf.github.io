@@ -1,16 +1,23 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 请叫我查理布朗，努力成为一个奋斗B！
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name came from Niklaus Mikaelson（Klaus). which is corner of Klaus from "The Originals"
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- One of the ancestors of the vampire
+- Possess the dual bloodline of werewolves and vampires
 
 What else do you need?
 
-### My story
+加油，打工人！一起为老板的梦想奋斗。
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Klaus' story
+
+"The Originals" is a derivative drama of "The Vampire Diaries", produced by Columbia and Warner Bros.
+
+![image-20201109125409073](assets/images/image-20201109125409073.png)
+
+ United Television Network. Directed by Chris Grisme, Joseph Morgan, starring Daniel Gillies. The play tells the thrilling story of Nicklaus, Elijah, and Rebecca, members of the first-generation vampire family, after returning to settle in New Orleans, and their predecessor, Marcel, began a struggle for dominance and a struggle with regional witches. The show premiered on October 3, 2013.
+
