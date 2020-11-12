@@ -17,8 +17,8 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - CSDN Blog: "https://blog.csdn.net/klaus_x"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://blog.csdn.net/klaus_x"
+    - github: "https://github.com/klauscf?tab=repositories"
+  Author's home: "https://www.klauscf.tk/"
 
 # --- Logo --- #
 
