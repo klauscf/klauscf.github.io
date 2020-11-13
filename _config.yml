@@ -17,7 +17,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - CSDN Blog: "https://blog.csdn.net/klaus_x"
-    - github: "https://github.com/klauscf?tab=repositories"
+    - github: "https://github.com/klauscf"
   Author's home: "https://www.klauscf.tk/"
 
 # --- Logo --- #
